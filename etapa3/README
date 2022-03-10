@@ -1,0 +1,21 @@
+Range Minimum Query
+Etapa 2:
+	Am implementat cei 3 algoritmi alesi de mine pentru a rezolva aceasta problema: 
+	-Solutia banala cu parcurgerea unui alt tablou si aflarea minimului pentru o interogare
+	-Segment Tree
+	-Tournament Method
+	Fiecare algoritm a fost implementat cu head-er-ul lui corespunzator.
+	In main avem o metoda de afisare a timpului de executie pentru fiecare algoritm,necesar pentru etapa a 3 a.
+	Fișierul etapa2.h conține funcțiile folosite pentru a afla minimul
+dintre poziția x și poziția y într-un vector citit din fișier.
+	Dupa implementarea algoritmilor in c++ am scris criteriile de evaluare si testare care contine:
+	-teste particulare
+	-teste cu cazuri favorabile
+	-teste cu cazurile nefavorabile
+	-seturi generale de date
+	-teste cu numere negative
+
+	Referinte relevante:
+	https://www.geeksforgeeks.org/range-minimum-query-for-static-array/
+	https://www.geeksforgeeks.org/segment-tree-set-1-range-minimum-query/
+	https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/
